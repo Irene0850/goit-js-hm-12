@@ -4,7 +4,6 @@
   | default @import url()
   |============================
 */
-@import url('./reset.css');
 
 .is-hidden {
   width: 1px;
